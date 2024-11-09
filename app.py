@@ -11,7 +11,7 @@ fortune_list = [
 ]
 
 # 앱 제목
-st.title("오늘의 운세 확인")
+st.title("오늘의 운세 확인!!!!!!!!!!!")
 
 # 날짜 입력 받기
 user_date = st.date_input("오늘의 날짜를 선택하세요:")
